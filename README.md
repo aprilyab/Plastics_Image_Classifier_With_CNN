@@ -115,7 +115,7 @@ Each subfolder contains labeled images of that plastic type.
 ##  Author
 
 -  Name: **Henok Yoseph**  
--  Email: henokapril@gmail.com  p
+-  Email: henokapril@gmail.com  
 -  GitHub: https://github.com/aprilyab/Plastics_Image_Classifier_With_CNN 
 
 ---
