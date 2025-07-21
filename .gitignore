@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.log
+*.h5
+*.hdf5
+*.keras
+*.pth
+
+# Environment
+.env
+venv/
+ENV/
+env/
+*.env
+
+# Colab/Notebook
+.ipynb_checkpoints/
+.DS_Store
+
+# Dataset and Outputs
+dataset/
+*.zip
+*.tar.gz
+*.jpg
+*.png
+
+# OS
+Thumbs.db
